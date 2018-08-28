@@ -1,5 +1,5 @@
 {
-    "name": "dynamic/silverstripe-elemental-embedded-code",
+    "name": "hothouse/silverstripe-elemental-embedded-code",
     "description": "A block to embed code like iFrames or Javascript on a page.",
     "authors": [
         {
